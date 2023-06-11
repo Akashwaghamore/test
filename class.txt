@@ -2,5 +2,11 @@ class akash
 {
    void m1()
     {
+      system.out println(" akash ")
     }
+   void m2()
+   {
+    system.out.println(" billi ")
+    }
+
 }
