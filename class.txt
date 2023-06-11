@@ -1,0 +1,6 @@
+class akash
+{
+   void m1()
+    {
+    }
+}
